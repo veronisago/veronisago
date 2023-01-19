@@ -1,28 +1,116 @@
-Hola, mi nombre es Veronica y actualmente soy desarrolladora web Full Stack, a continuacion te cuento un poco mas sobre mi...
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-Hace un año finalice mi carrera en ingenieria ambiental, en este momento decidi hacer un giro en mi vida y estudiar desarrollo web, un tema un poco diferente pero que me generaba gran motivacion ya que llevaba algunos meses estudiandolo de forma autodidacta. Inicie el Bootcamp en Soy Henry donde Afiance gran parte de mis conocimientos y adquiri nuevos con el proposito de iniciar el desarrollo de proyectos donde pudiese plasmar todo lo aprendido. Me apasiona el continuo aprendizaje, la teconologia y el diseño.
+### <div align="center">I'm Veronica, a full-time full-stack developer 👨‍💻 and Environmental Engineer 🌱</div>  
+  
 
-Que hago?
+A year ago I finished my career in environmental engineering, at this time I decided to make a turn in my life and study web development, a slightly different subject but that generated great motivation as I had been studying it for some months in a self-taught way. I started the Bootcamp at Soy Henry, where I consolidated most of my knowledge and acquired new ones to start the development of projects where I could put into practice all I had learned. I am passionate about continuous learning, technology, and design.
+  
+  
 
-Actualmente sigo trajando en mejorar mis habilidades realizando proyectos personales
+# 
 
-cuales son mis objetivos?
 
-Mi principal objetivo es crecer profesional y personalmente dentro de este sector, poder aportar valor a los proyectos en los que me pueda desempeñar y al mismo tiempo aprender de ello, me motiva el aprendizaje continuo y el podre trabajar en equipo.
+💁‍♀️What do I do?
 
-Que tecnologias implemento?
+Currently, I am still working on improving my skills by doing personal projects.
 
-* React js
-* Redux
-* Express
-* Node js
-* PostgreSQL
-* Sequielize
-* HTML
-* CSS
-* GIT
+🎖️What are my objectives?
 
-Como me puedes contactar?
+My main objective is to grow professionally and personally within this sector, to be able to add value to the projects in which I can work, and at the same time learn from it, I am motivated by continuous learning and being able to work in a team.
 
-Linkedin: https://www.linkedin.com/in/veronica-sanchez-gomez-32961a228/
-email: veronisago1999@gmail.com
+  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/veronica-sanchez-gomez-32961a228/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://github.com/veronisago" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
